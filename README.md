@@ -1,5 +1,6 @@
 ### Hi there 👋
-      https://nifty-bell-e34c2f.netlify.app/
+
+   [portfolio]( https://nifty-bell-e34c2f.netlify.app/)
 - 🔭 I’m currently working on Evernote Clone
 - 🌱 I’m currently learning reactjs
 - 🤔 I’m looking for Dev job
