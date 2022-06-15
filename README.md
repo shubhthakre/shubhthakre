@@ -1,9 +1,9 @@
 ### Hi there 👋
 
   [portfolio]( https://nifty-bell-e34c2f.netlify.app/)
-- 🔭 I’m currently working on T minus 5
-- 🌱 I’m currently learning reactjs
-- 🤔 I’m looking for Dev job
+- 🔭 I’m currently working on Software Testing tools
+- 🌱 I’m currently learning java
+- 🤔 I’m looking for Testing job
 - 📫 How to reach me: thakres955@gmil.com
 
 
