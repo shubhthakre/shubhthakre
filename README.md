@@ -1,9 +1,9 @@
 ### Hi there 👋
 
   [portfolio]( https://nifty-bell-e34c2f.netlify.app/)
+  Software Tester
 - 🔭 I’m currently working on Software Testing tools
-- 🌱 I’m currently learning java
-- 🤔 I’m looking for Testing job
+- 🤔 I’m currently working at CDAC 
 - 📫 How to reach me: thakres955@gmil.com
 
 
