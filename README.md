@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Shubham Thakre</h1>
+<h1>Hi 👋, I'm Shubham</h1>
 
 <h3>Test Automation Engineer</h3>
 
