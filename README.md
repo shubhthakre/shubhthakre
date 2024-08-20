@@ -4,11 +4,11 @@
 
  - 🤔 I’m currently working at @CDAC Mumbai
  
-- 🔭 I’m currently working on Selenium,jenkins,Gitlab,Dcoker,Kubernetes
+- 🔭 I’m currently working on **jenkins,Gitlab,Docker,Kubernetes,Ansible
   
-- 👯 I’m looking to collaborate on **API Testing, Selenium, Automation Frameworks**
+- 👯 I’m looking to collaborate on deploying microservices
   
-- 💬 Ask me about **Selenium, SDET, JAVA, Javascript, Jmeter, POSTMAN, Docker, Kubernetes**
+- 💬 Ask me about **Docker,Kubernetes
  
 - 📫 How to reach me: thakres955@gmil.com
 
